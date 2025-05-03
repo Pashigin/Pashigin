@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pashigin
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, SQL, Tableau
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ivan-pashigin)
-- ⚡ Fun fact: I am trying to be a software developer for 5 years 
+- 👀 I’m interested in Data Engineering
+- 🌱 I have experience in Python, SQL, Tableau, Airflow, SQLMesh, Metabase, Docker
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ivan-pashigin) or [Telegram](t.me/pashigin)
+- ⚡ Fun fact:  
 
 <!---
 Pashigin/Pashigin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
