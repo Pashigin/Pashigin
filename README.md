@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pashigin
 - 👀 I’m interested in Data Engineering
-- 🌱 I have experience in Python, SQL, PostgreSQL, Greennlum, Apache Spark and Airflow, dbt, Docker
+- 🌱 I have experience in Python, SQL, PostgreSQL, Greenplum, ClickHouse Apache Spark and Airflow, dbt, Docker
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ivan-pashigin), [Telegram](https://t.me/pashigin), [Website](https://pashigin.is-a.dev)
 - ⚡ Fun fact: I don't read news 👀 (but sometimes I do...)
 
